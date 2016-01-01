@@ -1,7 +1,14 @@
 # Resources I Can Always Refer Back To
 
-### CSS
-- [ ] [CSS Guidelines](http://cssguidelin.es/)
+### Cooking
 
-### Tools
+### Brewing
+
+### Movies and Photography
+
+### Mobile
+
+### DevOps
+
+### General Tech
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
