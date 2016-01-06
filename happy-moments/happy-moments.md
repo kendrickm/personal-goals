@@ -12,3 +12,12 @@ Today I got to hike around in the backcountry of warm springs indian reservation
 
 01/03/2016
 ---
+It snowed today! The city was beautiful covered in a blanket of snow.
+
+01/04/2016
+---
+I started reading Bossypants and am really enjoying Tina Fey's humor
+
+1/05/2016
+---
+Return to the gym! After far too long I was back in the gym again.

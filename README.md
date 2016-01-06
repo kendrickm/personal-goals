@@ -31,7 +31,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a blog post
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [ ] Streamline this(personal goals) process
-- [ ] Acquire and pass out homebrew taste sheets
+- [X] Acquire and pass out homebrew taste sheets
 
 
 ### Things I'll Do This Month: January 2016
