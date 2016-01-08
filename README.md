@@ -29,7 +29,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Write a blog post
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [X] Send Una a nice email (una.kravets@gmail.com)
 - [ ] Streamline this(personal goals) process
 - [X] Acquire and pass out homebrew taste sheets
 

@@ -21,3 +21,7 @@ I started reading Bossypants and am really enjoying Tina Fey's humor
 1/05/2016
 ---
 Return to the gym! After far too long I was back in the gym again.
+
+1/06/2016
+---
+Met with Matt over a beer and had a good discussion.
