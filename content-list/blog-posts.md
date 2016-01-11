@@ -15,3 +15,5 @@
 - [ ] [On Display at CES, Tech Ideas in Their Awkward Adolescence](http://www.nytimes.com/2016/01/07/technology/on-display-at-ces-tech-ideas-in-their-awkward-adolescence.html)
 - [ ] [Dave Chens Favorite Longreads](http://www.davechen.net/2015/12/my-10-favorite-longreads-of-2015.html)
 - [ ] [All the Science Fiction and Fantasy books](http://io9.gizmodo.com/all-the-science-fiction-and-fantasy-books-everyone-will-1751732361)
+- [ ] [Googles Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] [Best of 2016 Tabletop](http://geekdad.com/2016/01/best-tabletop-2015/)

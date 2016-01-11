@@ -18,10 +18,14 @@ It snowed today! The city was beautiful covered in a blanket of snow.
 ---
 I started reading Bossypants and am really enjoying Tina Fey's humor
 
-1/05/2016
+01/05/2016
 ---
 Return to the gym! After far too long I was back in the gym again.
 
-1/06/2016
+01/06/2016
 ---
 Met with Matt over a beer and had a good discussion.
+
+01/07/2016
+---
+Saw The Miracle Worker at Portland ART. 
