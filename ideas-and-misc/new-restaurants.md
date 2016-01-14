@@ -17,3 +17,4 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Noraneko
 - [ ] Tastebud
 - [ ] Nuestra Cocina
+- [ ] Bollywood Theater
