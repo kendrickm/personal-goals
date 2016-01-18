@@ -18,3 +18,4 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Tastebud
 - [ ] Nuestra Cocina
 - [ ] Bollywood Theater
+- [ ] Tar Boush 

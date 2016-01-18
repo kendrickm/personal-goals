@@ -22,22 +22,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 13. Create presentation for CC
 14. Get involved in organization
 15. Create more videos
-16.
+16. Get a telescope and find place to get good view
 
 
-# Jan 10, 2016
+# Jan 17, 2016
 
-### This Week's Goal: Generate momentum
+### This Week's Goal: Serious Android Focus
 
 ## Things I'll Do This Week:
-- [ ] Find where to host personal site
+- [ ] Finalize personal site setup
+- [ ] Lock down car work
+- [ ] Find new password program that works between phone and computers
 - [ ] Finish some android lessons
-- [ ] Complete music-less draft of CraterLake video
+- [ ] Complete rough draft of CraterLake video
 - [ ] Get supplies for coster project
-- [ ] Watch youtube videos on car work
-- [ ] Get estimate on changing car belt
-- [ ] Finish account/email updates
-- [X] Factory reset phone
+- [ ] Record audio version of blogpost
+- [ ] Plan second blog post of the year
 
 ### Things I'll Do This Month: January 2016
 - [ ] Get Personal website set up
@@ -45,7 +45,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [X] Do some winter sports :star:
 - [ ] Attend Improv show
 - [ ] Brew Czech Pilsner
-- [ ] Find out if Tool Library has routers
+- [X] Find out if Tool Library has routers
 - [ ] Record audio version of blog post
 
 
@@ -59,6 +59,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Lunch game
 - [ ] Norm
 - [ ] Food app
+- [ ] Photo shoot
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Get Raspberry Pi
+2. Writing javascript frontends

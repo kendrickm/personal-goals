@@ -52,4 +52,16 @@ Had my first quiet night at home in a long time.
 
 01/13/2016
 ---
-Attended the Door of Hope Family meeting and took part in a very uplifting disscussion on the future of the church.
+Attended the Door of Hope Family meeting and took part in a very uplifting discussion on the future of the church.
+
+01/14/2016
+---
+Restarted our community group and had a great time sharing and learning with each other.
+
+01/15/2016
+---
+Went with some friends to Loyal Legion and had free food and drinks.
+
+01/16/2016
+---
+Spent the day wandering around town doing some much needed shopping and reading at Saraveza
