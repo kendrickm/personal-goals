@@ -5,10 +5,10 @@
 - [X] [Why poor people wast money on luxury goods](http://talkingpointsmemo.com/cafe/why-do-poor-people-waste-money-on-luxury-goods) :star:
 - [X] [Video Game Heroines of 2015: Finally, We Have 9 of Them](http://www.themarysue.com/video-game-heroines-of-2015/)
 - [X] [Best of 2015 Tabletop Games](http://entropymag.org/best-of-2015-tabletop-games/)
-- [ ] [5 Great board games based on video games](http://geekandsundry.com/five-great-board-games-based-on-video-games/)
+- [X] [5 Great board games based on video games](http://geekandsundry.com/five-great-board-games-based-on-video-games/)
 - [X] [Website Obesity](http://idlewords.com/talks/website_obesity.htm)
 - [X] [OPB Looks back on 2015](http://www.opb.org/news/series/greetings-northwest/)
-- [ ] [Four sci-fi/fantasy series you need to own](http://geekandsundry.com/four-sci-fifantasy-series-you-need-to-own/)
+- [X] [Four sci-fi/fantasy series you need to own](http://geekandsundry.com/four-sci-fifantasy-series-you-need-to-own/)
 - [X] [Transparent and the profound dangers of minimizing pc and safe space culture](http://www.pajiba.com/think_pieces/transparent-and-the-profound-dangers-of-minimizing-pc-and-safe-space-culture.php)
 - [ ] [Jack Giroux's Top 10 movies of 2015](http://www.slashfilm.com/jack-giroux-top-10-movies-of-2015/)
 - [ ] [Why Evie Frye Makes Me Love Assassin's Creed Again](http://www.pastemagazine.com/articles/2016/01/ac-syndicate-feature.html)
@@ -26,4 +26,4 @@
 - [ ] [Oregon Road Trip Educational Stops](http://www.opb.org/news/series/greetings-northwest/educational-oregon-road-trip/)
 - [ ] [Oregon Jazz Teacher ](http://www.opb.org/news/series/greetings-northwest/oregon-jazz-race-education-teacher-thara-memory/)
 - [ ] [Oregon Rivers](http://www.opb.org/news/series/greetings-northwest/introduction-to-oregons-incredible-rivers/)
-- [ ] []()
+- [ ] [Sticking to your Resolutions part I](https://habitica.wordpress.com/2016/01/15/sticking-to-your-resolutions-part-i-setting-the-stage-for-success/)

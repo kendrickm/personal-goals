@@ -65,3 +65,19 @@ Went with some friends to Loyal Legion and had free food and drinks.
 01/16/2016
 ---
 Spent the day wandering around town doing some much needed shopping and reading at Saraveza
+
+01/17/2016
+---
+Had people over for dinner and watched some Twin Peaks.
+
+01/18/2016
+---
+Was able to catch up with neighbors and plan Star Wars RPG night
+
+01/19/2016
+---
+Volunteered at the Portland Rescue Mission and bonded with people over serving
+
+01/20/2016
+---
+Had lunch with Ramez and team. Got to catch up and work on roadmap at CrowdCompass

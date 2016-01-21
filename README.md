@@ -23,6 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 14. Get involved in organization
 15. Create more videos
 16. Get a telescope and find place to get good view
+17. Play more games
 
 
 # Jan 17, 2016
@@ -41,12 +42,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Month: January 2016
 - [ ] Get Personal website set up
-- [X] Rewrire record player setup
+- [X] Rewire record player setup
 - [X] Do some winter sports :star:
 - [ ] Attend Improv show
 - [ ] Brew Czech Pilsner
 - [X] Find out if Tool Library has routers
 - [ ] Record audio version of blog post
+- [ ] Plan some storytelling projects of some kind
 
 
 ### Things I'll Do in the Future
