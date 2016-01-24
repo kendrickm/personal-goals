@@ -26,16 +26,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# Jan 17, 2016
+# Jan 24, 2016
 
-### This Week's Goal: Serious Android Focus
+### This Week's Goal: Realistic commitments
 
 ## Things I'll Do This Week:
 - [ ] Finalize personal site setup
 - [ ] Lock down car work
 - [ ] Find new password program that works between phone and computers
 - [ ] Finish some android lessons
-- [ ] Complete rough draft of CraterLake video
 - [ ] Get supplies for coster project
 - [ ] Record audio version of blogpost
 - [ ] Plan second blog post of the year
@@ -44,7 +43,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Get Personal website set up
 - [X] Rewire record player setup
 - [X] Do some winter sports :star:
-- [ ] Attend Improv show
+- [X] Attend Improv show
 - [ ] Brew Czech Pilsner
 - [X] Find out if Tool Library has routers
 - [ ] Record audio version of blog post

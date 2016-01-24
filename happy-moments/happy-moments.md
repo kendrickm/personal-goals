@@ -81,3 +81,15 @@ Volunteered at the Portland Rescue Mission and bonded with people over serving
 01/20/2016
 ---
 Had lunch with Ramez and team. Got to catch up and work on roadmap at CrowdCompass
+
+01/21/2016
+---
+After a pretty good CC Mullet experience, walked with DK and Drew over the bridge for some beers at Loyal Legion
+
+01/22/2016
+---
+Reconnected with some old Improv kids while watching an improved Star Trek Musical
+
+01/23/2016
+---
+Played pool and some games of bowling 
