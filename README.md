@@ -26,28 +26,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# Jan 24, 2016
+# Jan 31, 2016
 
-### This Week's Goal: Realistic commitments
+### This Week's Goal: Cooking
 
 ## Things I'll Do This Week:
-- [ ] Finalize personal site setup
-- [ ] Lock down car work
-- [ ] Find new password program that works between phone and computers
-- [ ] Finish some android lessons
-- [ ] Get supplies for coster project
-- [ ] Record audio version of blogpost
-- [ ] Plan second blog post of the year
+- [ ] Schedule brake checkup
+- [ ] Pencil some dates for spring weekend trip
+- [ ] Bake bread
+- [ ] Bake Pizza Dough
+- [ ] Start coaster project
 
 ### Things I'll Do This Month: January 2016
-- [ ] Get Personal website set up
+- [X] Get Personal website set up
 - [X] Rewire record player setup
 - [X] Do some winter sports :star:
 - [X] Attend Improv show
 - [ ] Brew Czech Pilsner
 - [X] Find out if Tool Library has routers
 - [ ] Record audio version of blog post
-- [ ] Plan some storytelling projects of some kind
+- [X] Plan some storytelling projects of some kind
 
 
 ### Things I'll Do in the Future

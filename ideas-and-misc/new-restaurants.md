@@ -19,4 +19,5 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Nuestra Cocina
 - [ ] Bollywood Theater
 - [ ] Tar Boush
-- [ ] Killingsworth Dynasty 
+- [ ] Killingsworth Dynasty
+- [X] PaaDee 

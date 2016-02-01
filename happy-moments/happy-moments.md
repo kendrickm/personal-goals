@@ -92,4 +92,36 @@ Reconnected with some old Improv kids while watching an improved Star Trek Music
 
 01/23/2016
 ---
-Played pool and some games of bowling 
+Played pool and some games of bowling
+
+01/24/2016
+---
+Had dinner with the gang and watched the series finale of Twin Peaks and also the first episode of the new x-files
+
+01/25/2016
+---
+Met with Tom McGregor and not only got to tell my story, but I felt like I was able to put to words a lot of my feelings
+
+1/26/2016
+---
+STAR WARS! Got together with neighbors and played star wars rpg finally!
+
+1/27/2016
+---
+Worked from home and started the show Fargo! What a great show
+
+1/28/2016
+---
+Shared a meal with community group
+
+1/29/2016
+---
+Met up with the twin peaks gang and we saw Fire Walk With Me at Laurelhurst Theater
+
+1/30/2016
+---
+Biked out to Foster Burger and had a meal with Josh. Caught up on improv things.
+
+1/31/2016
+---
+Stuck in bed with a migraine all day, but my wife took great care of me.

@@ -1,6 +1,6 @@
 Personal Site Brainstorming
 --------
-* Photography
+#Squarespace Edition
 * Personal projects
 ** Improv
 ** Dumbguys Podcast
