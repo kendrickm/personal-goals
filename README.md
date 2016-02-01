@@ -28,7 +28,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # Jan 31, 2016
 
-### This Week's Goal: Cooking
+### This Week's Goal: Baking
 
 ## Things I'll Do This Week:
 - [ ] Schedule brake checkup
@@ -36,22 +36,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Bake bread
 - [ ] Bake Pizza Dough
 - [ ] Start coaster project
+- [ ] Bake a dessert
+- [ ] Move android dev environment copy to desktop
+- [ ] Setup SF footage to new project
+- [ ] Save recipes for future sweet making
+- [ ] Move to LastPass
 
-### Things I'll Do This Month: January 2016
-- [X] Get Personal website set up
-- [X] Rewire record player setup
-- [X] Do some winter sports :star:
-- [X] Attend Improv show
+### Things I'll Do This Month: February 2016
 - [ ] Brew Czech Pilsner
-- [X] Find out if Tool Library has routers
 - [ ] Record audio version of blog post
-- [X] Plan some storytelling projects of some kind
-
+- [ ] Buy plane tickets
+- [ ] Play more pool
 
 ### Things I'll Do in the Future
 - [ ] Research OpenSource Projects to contribute to
 - [ ] Find place to play pool
 - [ ] Move passwords into unified keystore with mobile app
+- [ ] Set up regular twitch stream overlay
 
 
 ### Backlog: Side Projects :)
