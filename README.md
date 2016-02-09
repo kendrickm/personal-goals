@@ -26,13 +26,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# Jan 31, 2016
+# Feb 7, 2016
 
-### This Week's Goal: Baking
+### This Week's Goal: Baking, take 2
 
 ## Things I'll Do This Week:
-- [ ] Schedule brake checkup
-- [ ] Pencil some dates for spring weekend trip
 - [ ] Bake bread
 - [ ] Bake Pizza Dough
 - [ ] Start coaster project
@@ -40,10 +38,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Move android dev environment copy to desktop
 - [ ] Setup SF footage to new project
 - [ ] Save recipes for future sweet making
-- [ ] Move to LastPass
 
 ### Things I'll Do This Month: February 2016
-- [ ] Brew Czech Pilsner
+- [X] Brew Czech Pilsner
 - [ ] Record audio version of blog post
 - [ ] Buy plane tickets
 - [ ] Play more pool

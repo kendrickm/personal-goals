@@ -125,3 +125,35 @@ Biked out to Foster Burger and had a meal with Josh. Caught up on improv things.
 1/31/2016
 ---
 Stuck in bed with a migraine all day, but my wife took great care of me.
+
+2/1/2016
+---
+Got a new graphics card and finally got to check out Star Citizen
+
+2/2/2016
+---
+Got to explore the North Portland Tool Library
+
+2/3/2016
+---
+Brewed a czech pilsner with Drew at his house
+
+2/4/2016
+---
+Went to Bamboo Sushi for a ChefsWeek after party for free sushi and beer
+
+2/5/2016
+---
+Had a great discussion over the book of Acts with Mark and Jon
+
+2/6/2016
+---
+Went on a large group hike to Bayocean near Tillamook.
+
+2/7/2016
+---
+Saw Kyle Craft in concert who i've been wanting to see for some time.
+
+2/8/2016
+---
+Spent my birthday with my most supportive wife.

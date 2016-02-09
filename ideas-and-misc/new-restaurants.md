@@ -17,7 +17,7 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Noraneko
 - [ ] Tastebud
 - [ ] Nuestra Cocina
-- [ ] Bollywood Theater
+- [X] Bollywood Theater
 - [ ] Tar Boush
 - [ ] Killingsworth Dynasty
-- [X] PaaDee 
+- [X] PaaDee

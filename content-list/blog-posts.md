@@ -13,9 +13,9 @@
 - [ ] [OPB Favorite author interviews](http://www.opb.org/news/series/greetings-northwest/wordstock-opbs-favorite-author-interviews/)
 - [ ] [History of Dark Horse Comics](http://www.opb.org/news/series/greetings-northwest/dark-horse-comics-original-sketch-slideshow/)
 - [ ] [Oregon Road Trip Educational Stops](http://www.opb.org/news/series/greetings-northwest/educational-oregon-road-trip/)
-- [ ] [Oregon Jazz Teacher ](http://www.opb.org/news/series/greetings-northwest/oregon-jazz-race-education-teacher-thara-memory/)
-- [ ] [Oregon Rivers](http://www.opb.org/news/series/greetings-northwest/introduction-to-oregons-incredible-rivers/)
-- [ ] [Sticking to your Resolutions part I](https://habitica.wordpress.com/2016/01/15/sticking-to-your-resolutions-part-i-setting-the-stage-for-success/)
+- [X] [Oregon Jazz Teacher ](http://www.opb.org/news/series/greetings-northwest/oregon-jazz-race-education-teacher-thara-memory/)
+- [X] [Oregon Rivers](http://www.opb.org/news/series/greetings-northwest/introduction-to-oregons-incredible-rivers/)
+- [X] [Sticking to your Resolutions part I](https://habitica.wordpress.com/2016/01/15/sticking-to-your-resolutions-part-i-setting-the-stage-for-success/)
 - [X] [50 Female Tech Influencers to follow on twitter](http://skillcrush.com/2015/11/04/50-female-tech-influencers-to-follow-on-twitter/)
 - [X] [Bob Mondello Picks 2015's Best Movies, 2 At A Time](http://www.npr.org/2015/12/30/460844013/seeing-double-bob-mondello-picks-2015s-best-movies-two-at-a-time)
 - [X] [Why poor people wast money on luxury goods](http://talkingpointsmemo.com/cafe/why-do-poor-people-waste-money-on-luxury-goods) :star:
