@@ -157,3 +157,26 @@ Saw Kyle Craft in concert who i've been wanting to see for some time.
 2/8/2016
 ---
 Spent my birthday with my most supportive wife.
+
+2/9/2016
+---
+Started playing Elite:Dangerous which is fulfilling every dream I've had of flying a spaceship
+
+2/10/2016
+---
+Had some time to watch a movie: Sicario, a movie that carried a heavy disturbing weight
+2/11/2016
+---
+Went to my first Oregon Brew Crew meeting and heard a lot about upcoming competitions
+
+2/12/2016
+---
+Spent a quiet evening with nothing going on after work
+
+2/13/2016
+---
+BIRTHDAY PARTY! So many friends came over
+
+2/14/2016
+---
+Tim taught about the Passover at Door Of Hope today. This involved re-enacting the whole thing on stage.

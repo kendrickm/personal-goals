@@ -28,16 +28,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # Feb 7, 2016
 
-### This Week's Goal: Baking, take 2
+### This Week's Goal: Writing
 
 ## Things I'll Do This Week:
-- [ ] Bake bread
-- [ ] Bake Pizza Dough
-- [ ] Start coaster project
+- [ ] Work on work blog post
+- [ ] Help prepare a talk on terraform
 - [ ] Bake a dessert
 - [ ] Move android dev environment copy to desktop
-- [ ] Setup SF footage to new project
-- [ ] Save recipes for future sweet making
+- [ ] Write blurb on Hateful Eight, and Sicario
+- [ ] Record audio version of blog post
 
 ### Things I'll Do This Month: February 2016
 - [X] Brew Czech Pilsner
