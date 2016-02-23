@@ -180,3 +180,31 @@ BIRTHDAY PARTY! So many friends came over
 2/14/2016
 ---
 Tim taught about the Passover at Door Of Hope today. This involved re-enacting the whole thing on stage.
+
+2/15/2016
+---
+Met David Gibbons and started on boarding him at CC
+
+2/16/2016
+---
+Got an interesting job offer letter that started me thinking about future careers
+
+2/17/2016
+---
+Met with Micah for beers and had great discussion
+
+2/18/2016
+---
+Led our community group with Emily
+
+2/19/2016
+---
+Had a beer to celebrate David's first Week
+
+2/20/2016
+---
+Hiked Wygant peak with Scott and he recounted his experiences in Europe
+
+2/21/2016
+---
+First timbers game of the year! 4-0 win to kick the preason off

@@ -26,37 +26,33 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# Feb 7, 2016
+# Feb 21, 2016
 
-### This Week's Goal: Writing
+### This Week's Goal: Writing, again
 
 ## Things I'll Do This Week:
-- [ ] Work on work blog post
-- [ ] Help prepare a talk on terraform
-- [ ] Bake a dessert
-- [ ] Move android dev environment copy to desktop
-- [ ] Write blurb on Hateful Eight, and Sicario
+- [ ] Write blurb on movies I've been watching
 - [ ] Record audio version of blog post
+- [ ] Clean jeep out
+- [ ] Find some new recipes to cook
+- [ ] Finish personal site
 
-### Things I'll Do This Month: February 2016
-- [X] Brew Czech Pilsner
-- [ ] Record audio version of blog post
-- [ ] Buy plane tickets
-- [ ] Play more pool
 
 ### Things I'll Do in the Future
 - [ ] Research OpenSource Projects to contribute to
 - [ ] Find place to play pool
 - [ ] Move passwords into unified keystore with mobile app
 - [ ] Set up regular twitch stream overlay
-
+- [ ] Record audio version of blog posts
+- [ ] Buy plane tickets
+- [ ] Play more pool
 
 ### Backlog: Side Projects :)
 - [ ] Lunch game
 - [ ] Norm
 - [ ] Food app
-- [ ] Photo shoot
+- [ ] Cities in Oregon photo blog
+- [ ] Get Raspberry Pi
+- [ ] Writing javascript frontends
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Get Raspberry Pi
-2. Writing javascript frontends
