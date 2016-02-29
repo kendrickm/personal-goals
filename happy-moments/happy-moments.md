@@ -208,3 +208,31 @@ Hiked Wygant peak with Scott and he recounted his experiences in Europe
 2/21/2016
 ---
 First timbers game of the year! 4-0 win to kick the preason off
+
+2/22/2016
+---
+Talked with the owner of Simple. Local. Coffee. about cortado cups
+
+2/23/2016
+---
+Finally took the plunge and bought plane tickets to Europe for this summer
+
+2/24/2016
+---
+Talked with people about all the upcoming homebrew events in my life
+
+2/25/2016
+---
+Got out my longboard and rode it around while my car was in the shop
+
+2/26/2016
+----
+Went to David Nethers birthday party and had some delicious pizza
+
+2/27/2016
+---
+Got out router and circular saw and started working on coaster project
+
+2/28/2016
+---
+Brewed the stout that will eventually go into the barrel

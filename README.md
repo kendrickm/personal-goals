@@ -31,10 +31,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Writing, again
 
 ## Things I'll Do This Week:
-- [ ] Write blurb on movies I've been watching
+- [X] Write blurb on movies I've been watching
 - [ ] Record audio version of blog post
 - [ ] Clean jeep out
-- [ ] Find some new recipes to cook
+- [X] Find some new recipes to cook
 - [ ] Finish personal site
 
 
@@ -44,7 +44,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Move passwords into unified keystore with mobile app
 - [ ] Set up regular twitch stream overlay
 - [ ] Record audio version of blog posts
-- [ ] Buy plane tickets
+- [X] Buy plane tickets
 - [ ] Play more pool
 
 ### Backlog: Side Projects :)
@@ -52,7 +52,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Norm
 - [ ] Food app
 - [ ] Cities in Oregon photo blog
-- [ ] Get Raspberry Pi
-- [ ] Writing javascript frontends
 
 ### Backlog: Code Things I Want to Do/Play With
+- [ ] Get Raspberry Pi
+- [ ] Writing javascript frontends

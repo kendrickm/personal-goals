@@ -1,5 +1,6 @@
 # Blog Posts to Read
 
+- [ ] [Trine 3 devs open up about transparency and pitfalls of early access] http://www.gamasutra.com/view/news/252905/Trine_3_devs_open_up_about_transparency_and_the_pitfalls_of_Early_Access.php
 - [ ] [Why Evie Frye Makes Me Love Assassin's Creed Again](http://www.pastemagazine.com/articles/2016/01/ac-syndicate-feature.html)
 - [ ] [On Display at CES, Tech Ideas in Their Awkward Adolescence](http://www.nytimes.com/2016/01/07/technology/on-display-at-ces-tech-ideas-in-their-awkward-adolescence.html)
 - [ ] [Dave Chens Favorite Longreads](http://www.davechen.net/2015/12/my-10-favorite-longreads-of-2015.html)
@@ -10,9 +11,9 @@
 - [ ] [2015 News in Review](http://www.opb.org/news/series/greetings-northwest/2015-opb-news-in-review/)
 - [ ] [Think out loud 2015](http://www.opb.org/news/series/greetings-northwest/think-out-louds-notable-conversations-of-2015/)
 - [ ] [OPB Fall Booklist](http://www.opb.org/news/series/greetings-northwest/opbs-fall-book-list/)
-- [ ] [OPB Favorite author interviews](http://www.opb.org/news/series/greetings-northwest/wordstock-opbs-favorite-author-interviews/)
-- [ ] [History of Dark Horse Comics](http://www.opb.org/news/series/greetings-northwest/dark-horse-comics-original-sketch-slideshow/)
-- [ ] [Oregon Road Trip Educational Stops](http://www.opb.org/news/series/greetings-northwest/educational-oregon-road-trip/)
+- [X] [OPB Favorite author interviews](http://www.opb.org/news/series/greetings-northwest/wordstock-opbs-favorite-author-interviews/)
+- [X] [History of Dark Horse Comics](http://www.opb.org/news/series/greetings-northwest/dark-horse-comics-original-sketch-slideshow/)
+- [X] [Oregon Road Trip Educational Stops](http://www.opb.org/news/series/greetings-northwest/educational-oregon-road-trip/) :tent:
 - [X] [Oregon Jazz Teacher ](http://www.opb.org/news/series/greetings-northwest/oregon-jazz-race-education-teacher-thara-memory/)
 - [X] [Oregon Rivers](http://www.opb.org/news/series/greetings-northwest/introduction-to-oregons-incredible-rivers/)
 - [X] [Sticking to your Resolutions part I](https://habitica.wordpress.com/2016/01/15/sticking-to-your-resolutions-part-i-setting-the-stage-for-success/)
