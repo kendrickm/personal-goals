@@ -26,16 +26,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# Feb 21, 2016
+# Feb 29, 2016
 
-### This Week's Goal: Writing, again
+### This Week's Goal: Recording audio
 
 ## Things I'll Do This Week:
-- [X] Write blurb on movies I've been watching
-- [ ] Record audio version of blog post
-- [ ] Clean jeep out
-- [X] Find some new recipes to cook
-- [ ] Finish personal site
+- [ ] Write blurb on tv shows I've watched lately
+- [ ] Finish olympic blog post
+- [ ] Record audio version of both 2015 blog posts
+- [ ] Book Iceland lodging
+- [ ] Jot notes on Fifth Season
+- [ ] Jot notes in prep for Coava Club
+- [ ] Do some twitch streaming 
 
 
 ### Things I'll Do in the Future
@@ -44,7 +46,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Move passwords into unified keystore with mobile app
 - [ ] Set up regular twitch stream overlay
 - [ ] Record audio version of blog posts
-- [X] Buy plane tickets
 - [ ] Play more pool
 
 ### Backlog: Side Projects :)

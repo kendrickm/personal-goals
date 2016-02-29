@@ -1,3 +1,14 @@
+## Books read
+#### January 2016
+- [X] Suldruns Garden
+- [X] Bossypants
+- [X] Great Partnership
+
+#### February 2016
+- [X] Telling the truth
+- [X] Edge
+- [X] Fifth Season
+
 ### Books to look for at bookstores
 
 - [ ] [The Letter of James by Douglas Moo](http://www.amazon.com/gp/product/0802837301)
