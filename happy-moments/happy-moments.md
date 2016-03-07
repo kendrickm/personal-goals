@@ -236,3 +236,31 @@ Got out router and circular saw and started working on coaster project
 2/28/2016
 ---
 Brewed the stout that will eventually go into the barrel
+
+2/29/2016
+---
+Set aside good writing time
+
+3/1/2016
+---
+Star Wars Force Awakens! Created new character and met new play group
+
+3/2/2016
+---
+Went to a coffee shop before work and devoted time alone to journal
+
+3/3/2016
+---
+At our bi-weekly bookclub meetup John Abraham stopped by our table and introduced me to the Oxford "Very Short introductions"
+
+3/4/2016
+---
+Door of Hope had their first Friday Night Prayer meeting of 2016
+
+3/5/2016
+---
+Emily and I hike around Powell Butte
+
+3/6/2016
+---
+Met Jordan and Jamie; ate dinner at Thai Noon. Heard about their experience in missions

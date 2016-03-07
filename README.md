@@ -26,18 +26,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# Feb 29, 2016
+# March 6, 2016
 
-### This Week's Goal: Recording audio
+### This Week's Goal: Audio, take 2
 
 ## Things I'll Do This Week:
-- [ ] Write blurb on tv shows I've watched lately
-- [ ] Finish olympic blog post
-- [ ] Record audio version of both 2015 blog posts
-- [ ] Book Iceland lodging
-- [ ] Jot notes on Fifth Season
-- [ ] Jot notes in prep for Coava Club
-- [ ] Do some twitch streaming 
+- [ ] Record some kind of audio
+- [ ] Read more Gravity and Grace
+- [ ] Write some of my review backlog
+- [ ] Play board games
 
 
 ### Things I'll Do in the Future
