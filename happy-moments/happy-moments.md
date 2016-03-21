@@ -264,3 +264,59 @@ Emily and I hike around Powell Butte
 3/6/2016
 ---
 Met Jordan and Jamie; ate dinner at Thai Noon. Heard about their experience in missions
+
+3/7/2016
+---
+Got a new cell phone and activated on the Google Fi plan
+
+3/8/2016
+---
+Emily and I worked together to make a delicious soup
+
+3/9/2016
+---
+Tried out the beer gun for bottling beer
+
+3/10/2016
+---
+Went to Saraveza after community group and had a good discussion about life
+
+3/11/2016
+---
+Saw Parson Red Heads play after a long time
+
+3/12/2016
+---
+Watched Victoria, a movie that had a big impact on me
+
+3/13/2016
+---
+Went to The Old Gold to watch the Timbers game. First time in a while they weren't super crowded
+
+3/14/2016
+---
+Saw 10 Cloverfield Lane with Josh
+
+3/15/2016
+---
+Listened to Emily give her message at the Rescue Mission
+
+3/16/2016
+---
+Went to Alberta Street Pub and saw Blakes record release show
+
+3/17/2016
+---
+First community group in a long time when it was sunny when we arrived
+
+3/18/2016
+---
+Went to see 10 Cloverfield Lane again with Emily at the Bagdad
+
+3/19/2016
+---
+Filled up my whiskey barrel with beer where it will age for 8 months
+
+3/20/2016
+---
+Met guys from The Harbor and we went on a hike to Latourelle Falls

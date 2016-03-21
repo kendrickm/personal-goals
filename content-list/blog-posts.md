@@ -1,6 +1,9 @@
 # Blog Posts to Read
 
-- [ ] [Trine 3 devs open up about transparency and pitfalls of early access] http://www.gamasutra.com/view/news/252905/Trine_3_devs_open_up_about_transparency_and_the_pitfalls_of_Early_Access.php
+- [ ] [I want games that hit me like a punch in the face](http://www.zam.com/article/234/i-want-games-that-hit-me-like-a-punch-to-the-face)
+- [ ] [Not a Black Chair](https://medium.com/@amelielamont/not-a-black-chair-8a8e7e2b9140#.84lrlobj8)
+- [ ] [Missing the Mark on 8 bit inspiration](https://vaguelysubmerged.wordpress.com/2016/02/07/missing-the-mark-on-8-bit-inspiration/)
+- [ ] [Trine 3 devs open up about transparency and pitfalls of early access](http://www.gamasutra.com/view/news/252905/Trine_3_devs_open_up_about_transparency_and_the_pitfalls_of_Early_Access.php)
 - [ ] [Why Evie Frye Makes Me Love Assassin's Creed Again](http://www.pastemagazine.com/articles/2016/01/ac-syndicate-feature.html)
 - [ ] [On Display at CES, Tech Ideas in Their Awkward Adolescence](http://www.nytimes.com/2016/01/07/technology/on-display-at-ces-tech-ideas-in-their-awkward-adolescence.html)
 - [ ] [Dave Chens Favorite Longreads](http://www.davechen.net/2015/12/my-10-favorite-longreads-of-2015.html)
@@ -10,7 +13,7 @@
 - [ ] [Holiday Hors D'oeuvres](http://www.opb.org/news/series/greetings-northwest/asian-holiday-hors-doeuvres-smallwares-recipes/)
 - [ ] [2015 News in Review](http://www.opb.org/news/series/greetings-northwest/2015-opb-news-in-review/)
 - [ ] [Think out loud 2015](http://www.opb.org/news/series/greetings-northwest/think-out-louds-notable-conversations-of-2015/)
-- [ ] [OPB Fall Booklist](http://www.opb.org/news/series/greetings-northwest/opbs-fall-book-list/)
+- [X] [OPB Fall Booklist](http://www.opb.org/news/series/greetings-northwest/opbs-fall-book-list/)
 - [X] [OPB Favorite author interviews](http://www.opb.org/news/series/greetings-northwest/wordstock-opbs-favorite-author-interviews/)
 - [X] [History of Dark Horse Comics](http://www.opb.org/news/series/greetings-northwest/dark-horse-comics-original-sketch-slideshow/)
 - [X] [Oregon Road Trip Educational Stops](http://www.opb.org/news/series/greetings-northwest/educational-oregon-road-trip/) :tent:

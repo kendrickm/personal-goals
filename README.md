@@ -26,15 +26,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# March 6, 2016
+# March 20, 2016
 
-### This Week's Goal: Audio, take 2
+### This Week's Goal: Prep for camping trip
 
 ## Things I'll Do This Week:
-- [ ] Record some kind of audio
-- [ ] Read more Gravity and Grace
-- [ ] Write some of my review backlog
-- [ ] Play board games
+- [ ] Buy long underwear
+- [ ] Buy new water bottle
+- [ ] Figure out where we're going in eastern Oregon
 
 
 ### Things I'll Do in the Future
@@ -43,7 +42,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Move passwords into unified keystore with mobile app
 - [ ] Set up regular twitch stream overlay
 - [ ] Record audio version of blog posts
-- [ ] Play more pool
 
 ### Backlog: Side Projects :)
 - [ ] Lunch game
