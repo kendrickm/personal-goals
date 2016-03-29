@@ -26,15 +26,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# March 20, 2016
+# March 27, 2016
 
-### This Week's Goal: Prep for camping trip
+### This Week's Goal: Clean up project list
 
-## Things I'll Do This Week:
-- [ ] Buy long underwear
-- [ ] Buy new water bottle
-- [ ] Figure out where we're going in eastern Oregon
-
+## Things I'll do Next Week:
+- [ ] Determine work to finish crater lake video
+- [ ] Determine work to finish olympic blog post
+- [ ] Go through other WIP projects and priotirize them
+- [ ] Schedule out planned time for specific activities
 
 ### Things I'll Do in the Future
 - [ ] Research OpenSource Projects to contribute to
