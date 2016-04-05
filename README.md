@@ -28,15 +28,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # March 27, 2016
 
-### This Week's Goal: Clean up project list
+### This Week's Goal: Gaming
 
 ## Things I'll do Next Week:
-- [ ] Determine work to finish crater lake video
-- [ ] Determine work to finish olympic blog post
-- [ ] Go through other WIP projects and priotirize them
-- [ ] Schedule out planned time for specific activities
+- [ ] Play board games
+- [ ] Get some progress in Divinity
+- [ ] Play something on the PS4
+- [ ] Prepare a character for shadownrun
+
 
 ### Things I'll Do in the Future
+- [ ] Finally launch personal website
 - [ ] Research OpenSource Projects to contribute to
 - [ ] Find place to play pool
 - [ ] Move passwords into unified keystore with mobile app

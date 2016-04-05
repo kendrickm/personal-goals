@@ -320,3 +320,63 @@ Filled up my whiskey barrel with beer where it will age for 8 months
 3/20/2016
 ---
 Met guys from The Harbor and we went on a hike to Latourelle Falls
+
+3/21/2016
+---
+
+
+3/22/2016
+---
+The Star Wars RPG crew got back together and we played a great new mission
+
+3/23/2016
+---
+Spent some time researching Oregon for storytelling podcast idea
+
+3/24/2016
+---
+Went to Next Adventure and bummed around looking at cool stuff.
+
+3/25/2016
+---
+Hiked around the cottonwood canyon campground and watched an amazing star scape
+
+3/26/2016
+---
+Drove through eastern Oregon and visited the painted hills.
+
+3/27/2016
+---
+Woke up in the Ochoco National Forest to a tent surrounded to falling snow
+
+3/28/2016
+---
+Somebody at the work gave me a 6 pack to say thanks for picking up some last minute work for them
+
+3/29/2016
+---
+Emily and I started watching Man in High Castle again, and I'm sucked right into the show
+
+3/30/2016
+---
+Met with Matt back at Saraveza
+
+3/31/2016
+---
+Downloaded Miiamoto and started playing it with coworkers
+
+4/1/2016
+---
+Worked from home and enjoyed a really nice sunny day
+
+4/2/2016
+---
+Biked around in the afternoon with Emily and enjoyed a really warm evening
+
+4/3/2016
+---
+First time having church at Revolution Hall. Great bike ride and loved working on getting coffee set up
+
+4/4/2016
+---
+Checked out the Grow Hut at Green Dragon for Book Club
