@@ -380,3 +380,35 @@ First time having church at Revolution Hall. Great bike ride and loved working o
 4/4/2016
 ---
 Checked out the Grow Hut at Green Dragon for Book Club
+
+4/5/2016
+---
+Went on a nice walk with Emily after dinner
+
+4/6/2016
+---
+Went to Guardian Games and started playing Shadowrun
+
+4/7/2016
+---
+Met with some community group members at Breakside
+
+4/8/2016
+---
+Saw We Are Proud to Present, a powerful play about race and the genocide of Namibia
+
+4/9/2016
+---
+Spent the morning hiking Eagle Creek and then went to Thunder Island brewing
+
+4/10/2016
+---
+Visited Tracy and Tanner and saw their baby Oliver
+
+4/11/2016
+---
+Started The Bible Project reading plan with some friends
+
+4/12/2016
+---
+Went to Kells for after lunch beers with coworkers

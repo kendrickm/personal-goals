@@ -26,16 +26,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# March 27, 2016
+# April 10, 2016
 
-### This Week's Goal: Gaming
+### This Week's Goal: More Android
 
-## Things I'll do Next Week:
-- [ ] Play board games
-- [ ] Get some progress in Divinity
-- [ ] Play something on the PS4
-- [ ] Prepare a character for shadownrun
-
+## Things I'll do This Week:
+- [ ] Set up Sunshine project on home computer
+- [ ] Complete 1 Android lesson
+- [ ] Brainstorm more personal apps
 
 ### Things I'll Do in the Future
 - [ ] Finally launch personal website
