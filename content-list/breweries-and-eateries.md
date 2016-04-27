@@ -21,3 +21,14 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Tar Boush
 - [ ] Killingsworth Dynasty
 - [X] PaaDee
+- [X] Great Notion
+- [X] Labrewatory :science:
+- [X] Thunder Island Brewing
+- [ ] 13 Virtues Brewing
+- [ ] Back Pedal Brewing
+- [ ] Bent Shovel Brewing
+- [ ] Boring Brewing
+- [ ] Culmination Brewing
+- [ ] Drinking Horse
+- [ ] Ale Apothacary
+- [ ] Logsdon

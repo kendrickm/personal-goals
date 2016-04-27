@@ -1,6 +1,6 @@
 Personal Site Brainstorming
 --------
-#Squarespace Edition
+# Squarespace Edition
 * Personal projects
 ** Improv
 ** Dumbguys Podcast

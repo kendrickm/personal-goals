@@ -411,4 +411,56 @@ Started The Bible Project reading plan with some friends
 
 4/12/2016
 ---
-Went to Kells for after lunch beers with coworkers
+Posted a spur-of-the-moment craigslist ad looking for magicians interested in putting a show on
+
+4/13/2016
+---
+Brought some bottles of homebrew to work to share
+
+4/14/2016
+---
+Had a moving discussion at community group about love
+
+4/15/2016
+---
+Hung out at the Klines house and played some board games
+
+4/16/2016
+---
+Bought garden starts and planted them in the backyard
+
+4/17/2016
+---
+Called and talked with my parents for a while
+
+4/18/2016
+---
+Sat on Doron's patio after bottling our IPA talking about stars
+
+4/19/2016
+---
+First night as introduced leading pair of Rescue Mission with Emily
+
+4/20/2016
+---
+Had several people over and we sat around drinking homebrew
+
+4/21/2016
+---
+Went to Futurelandia and bought some posters of an envisoned future Portland
+
+4/22/2016
+---
+Had a Passover Seder at the Wallmans house
+
+4/23/2016
+---
+Hung out at Dorons house for his birthday gathering
+
+4/24/2016
+---
+Went to the third week of Body Life and had a great prayer time over the city of Portland
+
+4/25/2016
+---
+Hosted a Muslim prayer night in our house specifically for the country of Mauritania

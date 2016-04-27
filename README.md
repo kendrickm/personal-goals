@@ -26,14 +26,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# April 10, 2016
+# April 18, 2016
 
-### This Week's Goal: More Android
+### This Week's Goal: Complete test site on Wix
 
 ## Things I'll do This Week:
-- [ ] Set up Sunshine project on home computer
-- [ ] Complete 1 Android lesson
-- [ ] Brainstorm more personal apps
+- [ ] Finalize first draft of Wix Website
+- [ ] Write another journal entry
+- [ ] Write review of pop culture elements
 
 ### Things I'll Do in the Future
 - [ ] Finally launch personal website

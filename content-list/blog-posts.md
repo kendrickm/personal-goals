@@ -1,5 +1,8 @@
 # Blog Posts to Read
 
+- [ ] [Horrors pile up quietly in the other slavery](http://www.npr.org/2016/04/17/471622218/horrors-pile-up-quietly-in-the-other-slavery)
+- [ ] [Why Hollywood’s Whitewashing of ‘Doctor Strange’ and ‘Ghost in the Shell’ Is So Frustrating](http://www.slashfilm.com/doctor-strange-ghost-in-the-shell-whitewashing/)
+- [ ] [Ms Marvel Fighting Orientalism](http://thenewturkey.org//ms-marvel-fighting-orientalism/)
 - [ ] [I want games that hit me like a punch in the face](http://www.zam.com/article/234/i-want-games-that-hit-me-like-a-punch-to-the-face)
 - [ ] [Not a Black Chair](https://medium.com/@amelielamont/not-a-black-chair-8a8e7e2b9140#.84lrlobj8)
 - [ ] [Missing the Mark on 8 bit inspiration](https://vaguelysubmerged.wordpress.com/2016/02/07/missing-the-mark-on-8-bit-inspiration/)
@@ -11,8 +14,8 @@
 - [ ] [Googles Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] [Best of 2016 Tabletop](http://geekdad.com/2016/01/best-tabletop-2015/)
 - [ ] [Holiday Hors D'oeuvres](http://www.opb.org/news/series/greetings-northwest/asian-holiday-hors-doeuvres-smallwares-recipes/)
-- [ ] [2015 News in Review](http://www.opb.org/news/series/greetings-northwest/2015-opb-news-in-review/)
-- [ ] [Think out loud 2015](http://www.opb.org/news/series/greetings-northwest/think-out-louds-notable-conversations-of-2015/)
+- [X] [2015 News in Review](http://www.opb.org/news/series/greetings-northwest/2015-opb-news-in-review/)
+- [X] [Think out loud 2015](http://www.opb.org/news/series/greetings-northwest/think-out-louds-notable-conversations-of-2015/)
 - [X] [OPB Fall Booklist](http://www.opb.org/news/series/greetings-northwest/opbs-fall-book-list/)
 - [X] [OPB Favorite author interviews](http://www.opb.org/news/series/greetings-northwest/wordstock-opbs-favorite-author-interviews/)
 - [X] [History of Dark Horse Comics](http://www.opb.org/news/series/greetings-northwest/dark-horse-comics-original-sketch-slideshow/)
