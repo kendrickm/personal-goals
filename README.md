@@ -26,14 +26,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# April 18, 2016
+# May 8, 2016
 
-### This Week's Goal: Complete test site on Wix
+### This Week's Goal: Travel Prep
 
 ## Things I'll do This Week:
-- [ ] Finalize first draft of Wix Website
-- [ ] Write another journal entry
-- [ ] Write review of pop culture elements
+- [ ] Complete draft of detailed itinerary
+- [ ] Determine travel questions
+- [ ] Investigate travel packing options
 
 ### Things I'll Do in the Future
 - [ ] Finally launch personal website

@@ -464,3 +464,59 @@ Went to the third week of Body Life and had a great prayer time over the city of
 4/25/2016
 ---
 Hosted a Muslim prayer night in our house specifically for the country of Mauritania
+
+4/26/2016
+---
+Spent a lot of time at community group with brothers sharing our lives
+
+4/27/2016
+---
+Went with Doron and Emily to Saraveza and we reminisced about GABF and Jackson
+
+4/28/2016
+---
+Went to Hollywood and saw Miles Ahead
+
+4/29/2016
+---
+Saw Animal Eyes, Mascaras, and Kyle Craft at the Doug Fir
+
+4/30/2016
+---
+Built cornhole boards with Doron
+
+5/1/2016
+---
+First hot timbers afternoon game of the year
+
+5/2/2016
+---
+Enjoyed a nice evening sitting outside drinking a beer and reading a book
+
+5/3/2016
+---
+Woke up with a hymn on my heart and had a powerful morning bible reading
+
+5/4/2016
+---
+Went with DK to gather for our first actual "game" of Shadowrun
+
+5/5/2016
+---
+Spent a quiet evening lying at home catching up on tv shows
+
+5/6/2016
+---
+Met up with some of Micah's friends at Doug fir for a drink and then we headed to the top of a condo in Lloyd center for a great view
+
+5/7/2016
+---
+Met brett's brother Joe and the 3 of us, along with Doron and Emily, did a early morning hike up Dog mountain
+
+5/8/2016
+---
+Had a great afternoon playing board games with Emily
+
+5/9/2016
+---
+Won our second game of Pandemic Legacy

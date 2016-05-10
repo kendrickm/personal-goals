@@ -1,5 +1,6 @@
 # Blog Posts to Read
 
+- [ ] [Ori and the blind forest review](https://www.rockpapershotgun.com/2016/05/03/ori-and-the-blind-forest-definitive-edition-review/)
 - [ ] [Horrors pile up quietly in the other slavery](http://www.npr.org/2016/04/17/471622218/horrors-pile-up-quietly-in-the-other-slavery)
 - [ ] [Why Hollywood’s Whitewashing of ‘Doctor Strange’ and ‘Ghost in the Shell’ Is So Frustrating](http://www.slashfilm.com/doctor-strange-ghost-in-the-shell-whitewashing/)
 - [ ] [Ms Marvel Fighting Orientalism](http://thenewturkey.org//ms-marvel-fighting-orientalism/)

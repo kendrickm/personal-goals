@@ -13,6 +13,10 @@
 - [X] Annihilation :snake:
 - [X] Gravity and Grace
 
+#### April 2016
+- [X] Authority :rabbit:
+- [X] Magic Kingdom for Sale -- Sold
+
 ### Books to look for at bookstores
 
 - [ ] [The Letter of James by Douglas Moo](http://www.amazon.com/gp/product/0802837301)
