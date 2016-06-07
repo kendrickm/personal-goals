@@ -32,3 +32,8 @@ Gotta catch 'em all. (:star: == outstanding)
 - [ ] Drinking Horse
 - [ ] Ale Apothacary
 - [ ] Logsdon
+- [ ] Boke Bowl
+- [ ] Boxer Ramen
+- [ ] Noraneko
+- [ ] Biwa
+- [ ] Mirakutei

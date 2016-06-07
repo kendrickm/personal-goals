@@ -520,3 +520,109 @@ Had a great afternoon playing board games with Emily
 5/9/2016
 ---
 Won our second game of Pandemic Legacy
+
+5/9/2016
+---
+Prayed for Alexanders trip to Laos
+
+5/11/2016
+---
+Met up with the Pagers and Pints guys for beers at loyal legion
+
+5/12/2016
+---
+Biked 10 miles each way to Imperial yeast for the brew crew meetup
+
+5/13/2016
+---
+Had a great outdoor BBQ with Doron, Emily, and Emily
+
+5/14/2016
+---
+Spent the day in a class on using stories in a storytelling based society
+
+5/15/2016
+---
+Went on a really nice rainy bike ride
+
+5/16/2016
+---
+Went to an interfaith alliance meeting about poverty in the area and heard a lot of great stories of work being done to improve the situation
+
+5/17/2016
+---
+Took Steve for a night at the Rescue Mission
+
+5/18/2016
+---
+Played a second round of Shadowrun. Delved deeper into the campaign, and made it through a fight alive
+
+5/19/2016
+---
+Played through a lot of board games we're trying to decide if we'll keep or get rid of them
+
+5/20/2016
+---
+Hung out with some fellow CC people at Kellys Olympian and enjoyed some beers.
+
+5/21/2016
+---
+Started reading Red Rising and blasted through about 60% of the book
+
+5/22/2016
+---
+Watched an amazing Timbers game against Vancouver BC
+
+5/23/2016
+---
+
+5/24/2016
+---
+
+5/25/2016
+---
+
+5/26/2016
+---
+
+5/27/2016
+---
+
+5/28/2016
+---
+Met with Trevor from deGarde brewing and learned how to brew a lambic
+
+5/29/2016
+---
+Spent the better part of the morning working on brewing an actual dark sour on a great setup
+
+5/30/2016
+---
+Hung out in sunny Tillamook
+
+5/31/2016
+---
+Biked around a cool evening and ran some errands in some beautiful weather
+
+6/1/2016
+---
+Watched white-knuckles of a timbers game eek out a win
+
+6/2/2016
+---
+Had Andrew over and we talked about backpacking
+
+6/3/2016
+---
+Went to Toffee Club and watched the USA vs Colombia kick off the Copa America
+
+6/4/2016
+---
+Had some Scott over and we invited neighbors for a bbq to try and escape the intense heat
+
+6/5/2016
+---
+Escaped the heat by heading down to the docks under the Hawthorne bridge
+
+6/6/2016
+---

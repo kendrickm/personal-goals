@@ -26,14 +26,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# May 8, 2016
+# May 22, 2016
 
-### This Week's Goal: Travel Prep
+### This Week's Goal: Weekend Camping
 
 ## Things I'll do This Week:
-- [ ] Complete draft of detailed itinerary
-- [ ] Determine travel questions
-- [ ] Investigate travel packing options
+- [ ] Get camping gear together
+- [ ] Pull out travel backpacks
+- [ ] Book hotel for paris
 
 ### Things I'll Do in the Future
 - [ ] Finally launch personal website

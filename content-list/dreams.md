@@ -4,3 +4,5 @@
 * MadMax/The 100 style fighting people off a building
 * Traveling through eastern Oregon after backpacking trip and accidentally started wildfire
 * Traveling through airport getting lost and forgetting bags
+* Told to quit my job
+* Traveling through a series of tunnels with Jewish Rabbi
