@@ -26,14 +26,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 17. Play more games
 
 
-# May 22, 2016
-
-### This Week's Goal: Weekend Camping
+# June 12th, 2016
+### This Week's Goal: Health
 
 ## Things I'll do This Week:
-- [ ] Get camping gear together
-- [ ] Pull out travel backpacks
-- [ ] Book hotel for paris
+- [ ] Wrap up a TV show
+- [ ] Capture footage for week in the life
+- [ ] 
 
 ### Things I'll Do in the Future
 - [ ] Finally launch personal website
@@ -50,5 +49,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Cities in Oregon photo blog
 
 ### Backlog: Code Things I Want to Do/Play With
-- [ ] Get Raspberry Pi
+- [ ] Complete Raspberry Pi project
 - [ ] Writing javascript frontends

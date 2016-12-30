@@ -606,7 +606,7 @@ Biked around a cool evening and ran some errands in some beautiful weather
 
 6/1/2016
 ---
-Watched white-knuckles of a timbers game eek out a win
+Watched a white-knuckled timbers game eek out a win
 
 6/2/2016
 ---
@@ -626,3 +626,36 @@ Escaped the heat by heading down to the docks under the Hawthorne bridge
 
 6/6/2016
 ---
+Sat in the sunny patio of Lucky Lab and had book club
+
+6/7/2016
+---
+Wrapped up 8 months of small group with a bbq and cornhole
+
+6/8/2016
+---
+Met with some men at DoH early today and discussed starting a new morning bookclub and bible study
+
+6/9/2016
+---
+Got together with Brett and Wil after a break for coffee and book discussion.
+
+6/10/2016
+---
+Went to Loyal Legion after work with Drew and talked about summer soccer games
+
+6/11/2016
+---
+Spent the day biking around town and watched the USMNT game from Bazi
+
+6/12/2016
+---
+Laid in the park under a blue sky and warm sun reading
+
+6/13/2016
+---
+Met with Bryan from Lompoc and discussed brewing our winning beer
+
+6/14/2016
+---
+Hung out at Simple Local Coffee and played darts and checkers

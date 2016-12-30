@@ -19,6 +19,13 @@
 
 #### May 2016
 - [X] Acceptance :lighthouse:
+- [X] Red Rising
+- [X] Alif the Unseen
+- [X] Father Glorified
+
+#### June 2016
+- [X] Surprised by Scripture
+- [X] Foundation
 
 ### Books to look for at bookstores
 

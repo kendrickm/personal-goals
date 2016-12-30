@@ -2,7 +2,7 @@
 Gotta catch 'em all. (:star: == outstanding)
 
 - [ ] Renata
-- [ ] Next Level Burger
+- [X] Next Level Burger
 - [ ] Nomad
 - [ ] Swift and Union
 - [ ] Pizza Jerk
